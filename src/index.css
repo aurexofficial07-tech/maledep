@@ -1,0 +1,16 @@
+/*
+  Placeholder stylesheet. The app renders a single blank white page for now;
+  the original design tokens, type scale and layout rules are removed.
+*/
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    margin: 0;
+    background-color: #ffffff;
+  }
+}
